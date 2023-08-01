@@ -1,0 +1,4 @@
+var npwp = document.querySelector('#npwp').value
+var npwp = document.querySelector('#status').value
+var bertindak_sebagai = $('input[name="bertindak_sebagai"]:checked').val();
+var identitas = $('input[name="identitas"]:checked').val();
